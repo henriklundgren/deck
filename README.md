@@ -1,17 +1,17 @@
 # Deck
 
 Window theme for Xfwm/Xfce.
-Small update of theme [Microdeck2](http://) 
+Small update of theme [Microdeck2](http://xfce.org) 
 
 + Sharp corners instead of the rounded.
 + Adjusted vertical alignment of title.
-+ PNG overlay
++ PNG overlay **Xfwm version 4.2**
++ Removed gradient pattern on inactive window
 
 Future:
 
 + Adjusted colors
-+ 1px smaller bottom bar
-+ Hover buttons
++ Prelight button state
 
 ## Build
 
