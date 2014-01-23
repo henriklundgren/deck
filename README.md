@@ -3,12 +3,12 @@
 Window theme for Xfwm/Xfce.
 Small update of theme [Microdeck2](http://xfce.org) 
 
-+ Sharp corners instead of the rounded.
++ Sharp corners instead of rounded.
 + Adjusted vertical alignment of title.
 + PNG overlay **Xfwm version 4.2**
 + Removed gradient pattern on inactive window
 
-Future:
+Future plans:
 
 + Adjusted colors
 + Prelight button state
@@ -17,9 +17,9 @@ Future:
 
 ### Pre requirements
 
-Xcftools // I have version 1.0.7 and it complaines about not supporting current xcf version but works anyways.
-Imagemagick // I have version 6.7.8.
-Make sure you have libpng installed as well.
++ Xcftools1.0.7
++ Imagemagick6.7.8
++ libPNG
 
 
 ```bash
